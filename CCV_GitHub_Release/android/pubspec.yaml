@@ -1,0 +1,19 @@
+name: clipboard_sync
+description: Ccv 跨设备剪贴板同步 - Android 端
+version: 3.4.3
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # WebSocket 客户端（唯一第三方依赖）
+  web_socket_channel: ^3.0.0
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

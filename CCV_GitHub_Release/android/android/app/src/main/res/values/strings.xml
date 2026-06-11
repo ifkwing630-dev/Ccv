@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">
+        Ccv 剪贴板同步 - 辅助检测用户复制行为。
+        仅用于在后台时检测复制内容并同步到电脑，
+        不会读取密码、银行卡号等敏感信息。
+        不收集或上传任何数据。
+    </string>
+</resources>
